@@ -75,3 +75,20 @@ An image-classification project focused on knee osteoarthritis using deep learni
   <img src="https://streak-stats.demolab.com/?user=Prathamesh-V-More&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
+
+<h2 align="left">🛠️ Languages and Tools</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow,opencv" alt="Python, MySQL, Git, GitHub, VS Code, TensorFlow and OpenCV" />
+</p>
+
+<h2 align="left">📊 GitHub Analytics</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-V-More&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-V-More&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
