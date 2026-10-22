@@ -1,115 +1,74 @@
-<br clear="right">
 
-<img align="right" width="180" src="hello.gif" alt="Hello animation">
+<div align="center">
+  <h1>Hi, I'm Prathamesh More 👋</h1>
+  <h3>Aspiring Data Analyst | AI & Data Science Graduate</h3>
+  <p>Python • SQL • Power BI • Data Visualization</p>
+</div>
 
-# Hi, I'm Prathamesh More 👋
+<img align="right" width="180" src="./hello.gif" alt="Hello animation">
 
-AI & Data Science Graduate | Aspiring Data Analyst
-
-Python • SQL • Power BI
-
-<br clear="right">
-# Hi, I'm Prathamesh More 👋
-
-### Aspiring Data Analyst | AI & Data Science Graduate
-
-I’m an Artificial Intelligence and Data Science graduate interested in data analytics, visualization, and solving practical problems using data. I work with Python, SQL, and Power BI to explore datasets, identify patterns, and communicate insights.
-
----
-
-## 👨‍💻 About Me
+I’m an Artificial Intelligence and Data Science graduate interested in data analytics, visualization, and solving practical problems using data. I enjoy exploring datasets, identifying patterns, and turning data into meaningful insights.
 
 - 🎓 B.E. in Artificial Intelligence & Data Science
-- 📊 Interested in Data Analytics, Business Intelligence, and Data Science
+- 📊 Interested in Data Analytics and Business Intelligence
 - 🛠️ Building projects using Python, SQL, and Power BI
-- 🌱 Continuously improving my analytical and technical skills
-- 🎯 Open to entry-level Data Analyst opportunities and collaborative projects
+- 🎯 Open to entry-level Data Analyst opportunities
+
+<br clear="right">
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Languages and Tools
 
-- **Programming:** Python
-- **Data Analysis:** Pandas, NumPy
-- **Databases:** MySQL, SQL
-- **Data Visualization:** Microsoft Power BI
-- **Tools:** Git, GitHub, Jupyter Notebook
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow,opencv" alt="Technical skills">
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. AI-Powered Crop Yield Prediction and Optimisation
+### 🌱 AI-Powered Crop Yield Prediction and Optimisation
 An agriculture-focused project combining crop-related prediction and optimisation with a web-based interface.
 
-**Focus:** AI, Python, agriculture technology
+[**View Project →**](https://github.com/Prathamesh-V-More/ai-powered-crop-yield-prediction-and-optimisation)
 
-[View Project on GitHub](https://github.com/Prathamesh-V-More/ai-powered-crop-yield-prediction-and-optimisation)
-
-### 2. Knee Osteoarthritis Classification
+### 🦴 Knee Osteoarthritis Classification
 An image-classification project focused on knee osteoarthritis using deep learning techniques.
 
-**Focus:** Python, image processing, deep learning
-
-[View Project on GitHub](https://github.com/Prathamesh-V-More/knee-osthiorthosis)
-
----
-
-## 📈 What I'm Working Toward
-
-- Strengthening SQL and data analysis skills
-- Creating clear, insightful Power BI dashboards
-- Developing practical projects that demonstrate analytical thinking
-
----
-
-## 🤝 Let's Connect
-
-- **GitHub:** [Prathamesh-V-More](https://github.com/Prathamesh-V-More)
-- **LinkedIn:** Add your LinkedIn profile link here
-
-*Always learning. Always building. Turning data into insights.*
-
-
-
+[**View Project →**](https://github.com/Prathamesh-V-More/knee-osthiorthosis)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-V-More&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-V-More&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-V-More&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-V-More&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prathamesh-V-More&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Prathamesh-V-More&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
 </p>
 
+---
 
-<h2 align="left">🛠️ Languages and Tools</h2>
+## 🤝 Let's Connect
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow,opencv" alt="Python, MySQL, Git, GitHub, VS Code, TensorFlow and OpenCV" />
-</p>
+- **GitHub:** [Prathamesh-V-More](https://github.com/Prathamesh-V-More)
+- **LinkedIn:** Add your LinkedIn profile URL here
 
-<h2 align="left">📊 GitHub Analytics</h2>
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-V-More&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <h2>🙏 Thank You for Visiting My Profile!</h2>
+  <p>Thanks for stopping by! Feel free to explore my projects and connect with me.</p>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-V-More&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+<img align="right" width="180" src="./thank-you.jpg" alt="Thank you illustration">
 
+<br clear="right">
 
-<hr>
-
-<img align="right" width="180" src="./thank-you.jpg" alt="Thank you">
-
-<h2>🙏 Thank You for Visiting My Profile!</h2>
-
-<p>Thanks for stopping by! Feel free to explore my projects and connect with me.</p>
-
-
+<div align="center">
+  <i>Always learning. Always building. Turning data into insights.</i>
+</div>
