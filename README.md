@@ -58,3 +58,20 @@ An image-classification project focused on knee osteoarthritis using deep learni
 - **LinkedIn:** Add your LinkedIn profile link here
 
 *Always learning. Always building. Turning data into insights.*
+
+
+
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-V-More&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-V-More&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Prathamesh-V-More&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
