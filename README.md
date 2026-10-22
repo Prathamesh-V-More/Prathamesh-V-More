@@ -92,3 +92,13 @@ An image-classification project focused on knee osteoarthritis using deep learni
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-V-More&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
+
+<hr>
+
+<img align="right" width="180" src="./thank-you.jpg" alt="Thank you">
+
+<h2>🙏 Thank You for Visiting My Profile!</h2>
+
+<p>Thanks for stopping by! Feel free to explore my projects and connect with me.</p>
+
+<br clear="right">
