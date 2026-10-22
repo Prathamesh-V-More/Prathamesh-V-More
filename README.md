@@ -80,7 +80,9 @@ An image-classification project focused on knee osteoarthritis using deep learni
 <h2>🤝 Let's Connect</h2>
 
 - <b>GitHub:</b> <a href="https://github.com/Prathamesh-V-More">Prathamesh-V-More</a>
-- <b>LinkedIn:</b> Add your LinkedIn profile link here
+- <b>LinkedIn:</b> www.linkedin.com/in/
+prathameshvmore
+
 
 ---
 
