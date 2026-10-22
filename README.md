@@ -1,3 +1,14 @@
+<br clear="right">
+
+<img align="right" width="180" src="hello.gif" alt="Hello animation">
+
+# Hi, I'm Prathamesh More 👋
+
+AI & Data Science Graduate | Aspiring Data Analyst
+
+Python • SQL • Power BI
+
+<br clear="right">
 # Hi, I'm Prathamesh More 👋
 
 ### Aspiring Data Analyst | AI & Data Science Graduate
@@ -101,14 +112,4 @@ An image-classification project focused on knee osteoarthritis using deep learni
 
 <p>Thanks for stopping by! Feel free to explore my projects and connect with me.</p>
 
-<br clear="right">
 
-<img align="right" width="180" src="hello.gif" alt="Hello animation">
-
-# Hi, I'm Prathamesh More 👋
-
-AI & Data Science Graduate | Aspiring Data Analyst
-
-Python • SQL • Power BI
-
-<br clear="right">
